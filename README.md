@@ -1,4 +1,4 @@
-# dibetisdetectionmodel
+# daibetisdetectionmodel
 A Machinelearing Model that detects Dibetis of a paitent, using supervised learing XGBOOST CLASSIFIER
 XGBoost (Extreme Gradient Boosting) is a powerful machine learning algorithm based on boosted decision trees.
 Boosting = combining multiple weak models (small decision trees) to create one strong model.
